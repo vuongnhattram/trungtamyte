@@ -475,14 +475,14 @@ button,
  a.button, input[type="button"],
  input[type="reset"],
  input[type="submit"] {
-    background: #FF5A5F none repeat scroll 0 0;
+    background: #0a67b2 none repeat scroll 0 0;
     color: #fff;
     font-size: 14px;
     line-height: 1;
     padding: 11px 35px;
     display: inline-block;
     font-family: 'Domine', serif;
-    border: 1px solid #FF5A5F;
+    border: 1px solid #04556bd4;
     font-weight:400;
 }
 
@@ -716,16 +716,17 @@ a:active {
     display: block;
     font-size: 16px;
     font-weight: 300;
-    padding: 18px 15px;
+    padding: 18px 10px;
     position: relative;
     z-index: 99;
     line-height: 1;
+    text-transform: capitalize;
 }
 
 .main-navigation ul ul a {
     border-left: medium none;
     border-right: medium none;
-    background: #2B2D2E;
+    background: #fff;
     font-size: 16px;
     height: auto;
     padding: 15px 15px;
@@ -739,7 +740,7 @@ a:active {
 
 .main-navigation ul li.menu-item-has-children ul.sub-menu li a,
 .home.page .header-collapse ul li a{
-    color: #fff;
+    color: #000;
 }
 
 .home.page .header-collapse ul li a:hover{
@@ -1167,7 +1168,7 @@ a:active {
     height: 15px;
     margin-right:8px;
     content: "";
-    color:#FF5A5F;
+    color:#0a67b2;
 }
 
 .entry-meta .byline .author.vcard {
@@ -1649,6 +1650,9 @@ section {
     box-shadow: 0 0 1px #999999;
     width: 1220px;
 }
+#header-widget-area .chw-widget img{
+    width: 100%;
+}
 .site-layout-boxed #page {
     box-shadow: 0 0 1px #999999;
     width: 1220px;
@@ -1656,15 +1660,14 @@ section {
 }
 
 .container {
-    max-width: 1210px;
+
     margin: 0 auto;
     padding-left: 20px;
     padding-right: 20px;
 }
 
 .site-layout-boxed #page .container {
-	padding-left: 30px;
-	padding-right: 30px;
+	padding: 0;
 }
 
 .inner-wrapper {
@@ -1701,7 +1704,7 @@ li {
 }
 
 #content {
-    padding: 30px 0 30px 0px;
+    padding:0;
     clear: both;
 }
 
@@ -2083,13 +2086,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 /*--------------------------------------------------------------
 # Header Css Starts
 --------------------------------------------------------------*/
-.top-header,
+/*.top-header,
 .site-header,
 .top-header-content,
 .bottom-header{
     float:left;
     width:100%;
-}
+}*/
 
 .top-header {
     padding-top:10px;
@@ -2245,7 +2248,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 }
 
 .main-navigation-holder{
-    background: #2B2D2E;
+    background: #0a67b2;
     min-height: 52px;
 }
 
@@ -2256,8 +2259,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 }
 
 .main-navigation li.current-menu-item a,
-.main-navigation ul li a:hover {
-    color:#FF5A5F;
+.main-navigation ul li.menu-item-has-children ul.sub-menu li a:hover {
+    color:#FFFFFF;
+    background: #074b82;
 }
 
 .home-icon{
@@ -2278,7 +2282,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 
 .home-icon.active-true a,
 .home-icon a:hover {
-    background: #FF5A5F;
+    background: #5ab3ff;
 }
 
 /* Header social widgets */
@@ -2359,7 +2363,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 }
 
 .search-box form button[type="submit"] i {
-    color:#FF5A5F;   
+    color:#0a67b2;
 }
 
 .search-box form button[type="submit"]:hover{
@@ -2538,7 +2542,7 @@ article.news-post{
     height: 34px;
     width: 34px;
     text-align: center;
-    background: #FF5A5F;
+    background: #0a67b2;
     position: absolute;
     bottom: 8%;
     z-index: 99;
@@ -2565,7 +2569,7 @@ article.news-post{
 .slick-prev:hover,
 .slick-next:hover {
     opacity: 1;
-    background:#FF5A5F; 
+    background:#FFFFFF;
 }
 
 .slick-prev:before,
@@ -2573,7 +2577,7 @@ article.news-post{
     display: inline-block;
     line-height: 34px;
     font-size: 25px;
-    color: #fff;
+    color: #d8d7d7;
     font-family: "FontAwesome";
 }
 
@@ -2610,8 +2614,8 @@ article.news-post{
 
 .section-title{
     margin-bottom: 20px;
-    border-left:3px solid #FF5A5F;
-    border-bottom:2px solid #2B2D2E; 
+    border-left:3px solid #0a67b2;
+    border-bottom:2px solid #0a67b2;
     text-align: right;
 }
 
@@ -2620,7 +2624,7 @@ article.news-post{
 	float: left;
 	padding:7px 15px;
 	position: relative;
-	background:#2B2D2E; 
+	background:#0a67b2;
 }
 
 .section-title h2:after,
@@ -2630,7 +2634,7 @@ article.news-post{
     height: 0;
     width: 0;
     border: 32px solid transparent;
-    border-bottom-color: #2B2D2E;
+    border-bottom-color: #0a67b2;
     border-width: 0 20px 32px 0;
     position: absolute;
     left: 100%;
@@ -3171,7 +3175,7 @@ article.news-post{
 
 #primary .page .entry-title a:hover,
 #primary .post .entry-title a:hover {
-	color: #FF5A5F;
+	color: #0a67b2;
 }
 
 #primary .page .featured-thumb,
@@ -3422,7 +3426,7 @@ article.news-post{
     right:0px;
     border:0;
     padding:12px;
-    background: #FF5A5F;
+    background: #0a67b2;
 }
 
 .sidebar .widget_search button:hover{
@@ -3466,7 +3470,7 @@ article.news-post{
 
 .sidebar ul li:before {
 	content:"\f101";
-	color:#FF5A5F;
+	color:#0a67b2;
     font-family: "FontAwesome";
     font-size: 15px;
     position: absolute;
@@ -3683,7 +3687,7 @@ article.news-post{
 .sidebar .widget_categories li a:hover,
 .sidebar .widget_archive li:hover a,
 .sidebar .widget_categories li:hover a{
-	color:#FF5A5F;
+	color:#0a67b2;
 }
 
 /* Pagination starts */
@@ -3891,7 +3895,7 @@ article.news-post{
     font-weight: 400;
     color:#fff;
     padding-bottom: 10px;
-    border-bottom: 1px solid #464d60;
+    border-bottom: 1px solid #0a67b2;
     margin-bottom: 20px;
 }
 
@@ -4033,7 +4037,7 @@ article.news-post{
 }
 
 .site-footer {
-    background:#1d2022; 
+    background:#0a67b2;
 }
 
 .site-footer .copyright,
@@ -4141,7 +4145,7 @@ article.news-post{
 /* Scroll up css */
 
 .scrollup{
-	background-color: #FF5A5F;
+	background-color: #0a67b2;
     border-radius: 50%;
     height: 50px;
     width: 50px;
@@ -4350,7 +4354,7 @@ article.news-post{
     }
 
     .mean-container .mean-nav ul li a:hover {
-         background: #FF5A5F;
+         background: #0a67b2;
     }
 
     .mean-container .main-navigation ul ul {
