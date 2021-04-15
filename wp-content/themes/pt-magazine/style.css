@@ -287,8 +287,8 @@ body {
     font-size: 15px;
     line-height: 1.4;
     margin: 0;
-    font-family: 'Domine', serif;
-    font-weight: 400;
+    font-family: Arial,Helvetica,sans-serif;
+    font-weight: 600;
 }
 
 h1,
@@ -299,11 +299,6 @@ h5,
 h6,
 p {
     margin: 0 0 15px 0;
-}
-h1, h2, h3, h4, h5, h6 {
-    color: #3d4351;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 600;
 }
 
 h1 {
@@ -397,7 +392,7 @@ html {
 }
 
 body {
-    background-color: #fff;
+    background-color: #ededed;
 }
 
 blockquote::before,
@@ -778,7 +773,9 @@ a:active {
 .main-navigation ul li.page_item_has_children a {
     padding-right: 30px;
 }
-
+.main-navigation ul#primary-menu > li:hover{
+    background: #074b82;
+}
 .main-navigation .menu-toggle,
 .main-navigation .dropdown-toggle {
     display: none;
@@ -789,7 +786,9 @@ a:active {
 #mobile-menu {
   display: none;
 }
-
+header h1{
+    display: none;
+}
 /*comment and post navigation*/
 
 .site-main .comment-navigation,
@@ -2391,9 +2390,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
     width: 100%;
 }
 
-.main-news-section {
-    padding-bottom:30px;
-}
 
 .main-news-left {
     padding-right:15px;
@@ -4748,4 +4744,72 @@ div#sticky-wrapper {
     width: 100%;
     position: relative;
     z-index: 99999;
+}
+.block-home .wpb_raw_html .wpb_wrapper{
+    border-bottom: 2px solid #0a67b2;
+}
+.block-home h3{
+    position: relative;
+    display: inline-block;
+    padding: 0 13px;
+    background-color: #0a67b2;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 36px;
+    color: #fff;
+    margin-bottom: 0;
+}
+.block-home h3:after{
+    content: '';
+    position: absolute;
+    z-index: 1;
+    background-color: #0a67b2;
+    right: -10px;
+    top: 0;
+    width: 20px;
+    height: 100%;
+    transform: skewX(
+            30deg
+    );
+    -o-transform: skewX(30deg);
+    -moz-transform: skewX(30deg);
+    -ms-transform: skewX(30deg);
+    -webkit-transform: skewX(
+            30deg
+    );
+}
+.block-home .vc_grid-container{
+    padding: 15px 0;
+    border: 1px solid #ddd;
+    background-color: #ffffff;
+}
+.vc_basic_grid .vc_grid.vc_row .vc_grid-item.vc_visible-item{
+    padding: 0 10px;
+
+}
+.vc_basic_grid .vc_grid.vc_row .vc_gitem-post-data-source-post_excerpt,.block-home  .vc_btn3-left,.tien-ich .vc_gitem-post-data-source-post_date{
+    display: none;
+}
+.block-home .vc_gitem-zone {
+    max-height: 210px;
+    text-align: center;
+}
+.block-home .vc_gitem-post-data-source-post_title h4{
+    font-size: 16px;
+    color: #337ab7;
+    text-decoration: none;
+    margin: 0;
+    padding: 10px 0;
+}
+.block-home  .vc_gitem_row .vc_gitem-col{
+    padding: 0;
+}
+.tien-ich .vc_grid-item-zone-c-right .vc_gitem-zone-c, .tien-ich .vc_grid-item-zone-c-right .vc_gitem-animated-block{
+    width: 100%;
+    background-color: #fff!important;
+}
+.tien-ich.block-home .vc_gitem-post-data-source-post_title h4{
+    font-size: 13px;
+    text-align: center!important;
 }

@@ -1,0 +1,392 @@
+/* CSS Document */
+
+
+/* Large Layout */
+@media only screen and (min-width:991px) and (max-width:1199px) {
+    .sticky-menu .appointment-link a {
+        margin-top: 6px;
+    }
+
+    .info-block {
+        padding: 30px 15px;
+        min-height: 260px;
+    }
+
+    .top-information .btn {
+        padding: 14px 12px;
+    }
+
+    .info-block-content {
+        min-height: 195px;
+    }
+
+    .intro-content {
+        padding-bottom: 45px;
+    }
+
+    .intro-img {
+        margin-top: 30px;
+    }
+
+    /* Layout 2 */
+
+    .header-2 .top-header .header-info span,
+    .header-2 .top-header .header-info a {
+        padding-right: 15px;
+    }
+
+    .header-2 .cssmenu>ul>li {
+        margin: 0 7px;
+    }
+
+    .header-2 .appointment-link a {
+        padding: 6px 10px 11px 6px;
+    }
+}
+
+/* Desktop Layout */
+@media only screen and (max-width:1199px) {
+    .top-information {
+        margin-top: -25px;
+    }
+
+    .text-content .about-img img:nth-of-type(2n) {
+        margin-left: -215px;
+    }
+
+    /*Post*/
+    .post-thumbnail img {
+        height: auto;
+    }
+
+    .aside-widget .search-form label {
+        width: 150px;
+    }
+}
+
+@media only screen and (max-width:1024px) {
+	body, html{
+		font-size: 14px;
+	}
+
+	h1{ font-size: 30px; }
+	h2{ font-size: 25px; }
+	h3{ font-size: 22px; }
+	h4{ font-size: 20px; }
+	h5{ font-size: 18px; }
+	h6{ font-size: 16px; }
+
+	.page-title h2{
+		font-size: 30px;
+	}
+
+	.widget_calendar{ font-size: 13px; }
+
+	.aside-widget{
+		padding: 20px;
+	}
+
+	.aside-widget h3, .aside-widget{
+		margin-bottom: 20px;
+	}
+
+	.page-single .post-thumbnail{
+		margin-bottom: 20px;
+	}
+
+}
+
+/* Desktop or Tablet Layout */
+@media only screen and (max-width:991px) {
+
+    .header-info,
+    .header .sociallink {
+        text-align: center;
+    }
+
+    .header-info {
+        padding: 0;
+        display: block;
+    }
+
+    .header-info i {
+        display: none;
+    }
+
+    .logo-holder {
+        margin: 25px 0;
+    }
+
+    .header .sociallink {
+        padding: 0;
+    }
+
+    .header {
+        padding-top: 10px;
+    }
+
+    .lg-appointment-link {
+        display: none;
+    }
+
+    .header-2 .sticky-header .navbar {
+        padding: 0;
+    }
+
+    .header-2 .sticky-header .appointment-link a {
+        padding: 15px;
+    }
+
+    .md-appointment-link {
+        display: block;
+        border-radius: 0
+    }
+
+    .md-appointment-link .btn {
+        display: block;
+        border-radius: 0;
+    }
+
+    .md-appointment-link .btn-3:hover {
+        color: #fff;
+    }
+
+    .md-appointment-link .btn-3::before,
+    .md-appointment-link .btn-3::after {
+        background: #ec215b;
+    }
+
+    .sticky-menu {
+        position: static;
+    }
+
+    .appointment-link a {
+        line-height: 20px;
+    }
+
+    .info-block {
+        min-height: 100%;
+    }
+
+    .info-block-content h5,
+    .info-block-content h6 {
+        margin-bottom: 0;
+    }
+
+    .intro-content {
+        padding: 50px 0;
+    }
+
+    .miscellaneous:before {
+        width: 100%;
+    }
+
+    .appointment-block {
+        padding-right: 25px;
+    }
+
+    .testimonial {
+        margin-bottom: 70px;
+        padding: 30px;
+        background: #00A4A3;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
+    }
+
+    .testimonial .owl-theme .owl-controls {
+        margin-bottom: 15px;
+    }
+
+    .testimonial .title i {
+        margin: -115px 0 0 -28px;
+    }
+
+    .blog-list {
+        margin-bottom: 30px;
+    }
+
+    .blog {
+        padding-bottom: 50px;
+    }
+
+    .top-footer {
+        padding: 50px 0;
+    }
+
+    .footer-widget {
+        margin: 30px 0;
+    }
+
+    .copyright,
+    .footer-nav ul {
+        text-align: center;
+    }
+
+    .footer-nav {
+        padding-top: 0;
+    }
+
+    /* Layout 2 */
+
+    .header-2 {
+        padding: 0;
+    }
+
+    .header-2 .header-info {
+        margin-bottom: 10px;
+    }
+
+    .header-2 .header-info {
+        text-align: center;
+    }
+
+    .header-2 .header-info i {
+        display: inline-block;
+    }
+
+    .header-2 .top-header .header-info span,
+    .header-2 .top-header .header-info a {
+        padding: 0 10px;
+    }
+
+    .header-2 .top-header {
+        padding: 10px 0;
+    }
+
+    .header-2 .logo-holder {
+        margin: 30px 0 25px 0;
+        padding: 0;
+        text-align: center;
+    }
+
+    .header-2 .main-header {
+        position: static;
+    }
+
+    /*Inner page*/
+    .page-title {
+        margin-top: 0;
+        padding-top: 55px;
+        padding-bottom: 55px;
+    }
+
+    .inner-info-item .tab-list {
+        margin-bottom: 30px;
+    }
+
+    .page .team-member .owl-theme .owl-controls {
+        margin-top: 0;
+    }
+
+    .blog-detail-full {
+        margin-bottom: 30px;
+    }
+
+    .blog-detail {
+        padding-bottom: 50px;
+    }
+
+    .blog-detail .social-share {
+        margin-top: 30px;
+        text-align: left;
+    }
+
+    .aside-widget .search-form label {
+        width: 100%
+    }
+
+    .search-form .search-submit {
+        position: static;
+        margin-top: 5px;
+        width: 100%;
+    }
+
+}
+
+/* Tablet Layout */
+@media only screen and (max-width:767px) {
+    .sm-section {
+        padding: 30px 0;
+    }
+
+    .section {
+        padding: 50px 0;
+    }
+
+    .intro-content {
+        padding: 50px 0;
+    }
+
+    .service {
+        padding-bottom: 20px;
+    }
+
+    .appointment-block {
+        padding: 50px 20px 50px 0;
+    }
+
+    .testimonial {
+        margin-bottom: 50px;
+    }
+
+    .blog-img img {
+        width: 100%
+    }
+
+    .top-footer {
+        padding: 30px 0;
+    }
+
+    /* Layout 2 */
+
+    .intro-2 .intro-content {
+        padding: 50px 0;
+    }
+
+    /*Inner page*/
+
+    .form .form-control {
+        margin-left: 0;
+    }
+
+    .service-detail-img img {
+        margin: 10px 0;
+        width: 100%;
+    }
+
+    .widget-area {
+        margin-top: 50px;
+    }
+
+    
+}
+
+/* Large Mobile Layout */
+@media only screen and (max-width:576px) {
+    .top-information {
+        margin-top: 0;
+    }
+}
+
+/* Small Mobile Layout */
+@media only screen and (max-width:480px) {
+	.title{ margin-bottom: 20px; }
+
+    .title h1 , .title h2 {
+        font-size: 30px;
+    }
+
+    /*Inner page*/
+
+    .search-form label {
+        width: 100%;
+    }
+
+    .intro-buttom img { 
+	    width: 190px;
+	}
+}
+
+/* Small Mobile Layout */
+@media only screen and (max-width:380px) {}

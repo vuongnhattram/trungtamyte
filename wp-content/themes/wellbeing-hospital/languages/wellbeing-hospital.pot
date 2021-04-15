@@ -1,0 +1,714 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wellbeing Hospital\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-28 11:01+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.4"
+
+#: footer.php:52
+#, php-format
+msgid "%1$s By %2$s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#: 404.php:19
+msgid "404"
+msgstr ""
+
+#: inc/core/wellbeing-functions.php:296
+msgid "404 Error"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:342
+msgid "<i class=\"fa fa-facebook\"></i>"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:346
+msgid "<i class=\"fa fa-google-plus\"></i>"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:343
+msgid "<i class=\"fa fa-instagram\"></i>"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:344
+msgid "<i class=\"fa fa-linkedin\"></i>"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:345
+msgid "<i class=\"fa fa-pinterest\"></i>"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:347
+msgid "<i class=\"fa fa-twitter\"></i>"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:348
+msgid "<i class=\"fa fa-youtube\"></i>"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/custom-controls.php:340
+msgid "Add"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:119
+msgid "Add extra button on menu bar."
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:325
+msgid "Add Icon"
+msgstr ""
+
+#: inc/customizer/custom-controls/functions.php:72
+msgid "Add me on Snapchat"
+msgstr ""
+
+#: functions.php:113 functions.php:122
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:108
+msgid "Add your phone number to the site header bar."
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:97
+msgid ""
+"Add your social media links and we'll automatically match them with the "
+"appropriate icons. Drag and drop the URLs to rearrange their order."
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:322
+msgid "Add your social media links."
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:59
+msgid "Adjust your Header section."
+msgstr ""
+
+#: inc/core/wellbeing-functions.php:187
+msgid "Archive by category"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:216
+msgid "Archive Settings"
+msgstr ""
+
+#: inc/core/wellbeing-functions.php:249
+msgid "Articles posted by "
+msgstr ""
+
+#: inc/core/wellbeing-functions.php:281
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:195
+msgid "Blog Section"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:275
+msgid "Breadcrumb Banner"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:85
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:417
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:431
+msgid "Button URL"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:703
+msgid "Choose Category for Blog "
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:594
+msgid "Choose Category for Services "
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:469
+msgid "Choose Category for slider "
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:673
+msgid "Choose Category for Testimonials "
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:644
+msgid "Choose Contact Page"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:532
+msgid "Choose Feature Page"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:740
+#: inc/customizer/custom-controls/inc/customizer.php:785
+msgid "Choose Sidebar Layouts"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:470
+msgid "Choose the category of posts for homepage slider"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:564
+msgid "Choose Welcome Page"
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:217
+msgid "Configure Archive Section"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:196
+msgid "Configure Blog Section"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:86
+msgid "Configure Breadcrumb Area"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:174
+msgid "Configure Contact Section"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:141
+msgid "Configure Feature Section"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:227
+msgid "Configure Footer Section"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:207
+msgid "Configure Post/Page Section"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:163
+msgid "Configure Service Section"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:130
+msgid "Configure Slider Section"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:185
+msgid "Configure Testimonial Section"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:152
+msgid "Configure Welcome Section"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:68
+msgid "Configure your Homepage sections."
+msgstr ""
+
+#: inc/customizer/custom-controls/functions.php:60
+msgid "Connect with me on Flickr"
+msgstr ""
+
+#: inc/customizer/custom-controls/functions.php:68
+msgid "Connect with me on Google+"
+msgstr ""
+
+#: inc/customizer/custom-controls/functions.php:65
+msgid "Connect with me on LinkedIn"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:107
+msgid "Contact"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:402
+msgid "Contact Address"
+msgstr ""
+
+#: inc/core/plugins-config.php:22
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:173
+msgid "Contact Form Section"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:39
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:819
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:240
+msgid "Default Controls"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:388
+msgid "Display phone number"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:99 template-parts/content-page.php:36
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/core/wellbeing-functions.php:221
+msgid "Empty Post Type"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:261
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:118
+msgid "Extra Button"
+msgstr ""
+
+#: inc/customizer/custom-controls/functions.php:58
+msgid "favourite me on Etsy"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:140
+msgid "Feature Section"
+msgstr ""
+
+#: inc/customizer/custom-controls/functions.php:66
+msgid "Folllow me on Medium"
+msgstr ""
+
+#: inc/customizer/custom-controls/functions.php:53
+msgid "Follow me on Behance"
+msgstr ""
+
+#: inc/customizer/custom-controls/functions.php:55
+msgid "Follow me on CodePen"
+msgstr ""
+
+#: inc/customizer/custom-controls/functions.php:57
+msgid "Follow me on Dribbble"
+msgstr ""
+
+#: inc/customizer/custom-controls/functions.php:61
+msgid "Follow me on Foursquare"
+msgstr ""
+
+#: inc/customizer/custom-controls/functions.php:63
+msgid "Follow me on Instagram"
+msgstr ""
+
+#: inc/customizer/custom-controls/functions.php:64
+msgid "Follow me on Last.fm"
+msgstr ""
+
+#: inc/customizer/custom-controls/functions.php:67
+msgid "Follow me on Pinterest"
+msgstr ""
+
+#: inc/customizer/custom-controls/functions.php:71
+msgid "Follow me on SlideShare"
+msgstr ""
+
+#: inc/customizer/custom-controls/functions.php:73
+msgid "Follow me on SoundCloud"
+msgstr ""
+
+#: inc/customizer/custom-controls/functions.php:74
+msgid "Follow me on Spotify"
+msgstr ""
+
+#: inc/customizer/custom-controls/functions.php:76
+msgid "Follow me on Tumblr"
+msgstr ""
+
+#: inc/customizer/custom-controls/functions.php:77
+msgid "Follow me on Twitch"
+msgstr ""
+
+#: inc/customizer/custom-controls/functions.php:78
+msgid "Follow me on Twitter"
+msgstr ""
+
+#: inc/customizer/custom-controls/functions.php:79
+msgid "Follow me on Vimeo"
+msgstr ""
+
+#: functions.php:50
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:226
+msgid "Footer Settings"
+msgstr ""
+
+#: functions.php:133
+#, php-format
+msgid "Footer Widget Area %d"
+msgstr ""
+
+#: inc/customizer/custom-controls/functions.php:54
+msgid "Fork me on Bitbucket"
+msgstr ""
+
+#: inc/customizer/custom-controls/functions.php:62
+msgid "Fork me on GitHub"
+msgstr ""
+
+#: inc/customizer.php:37
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:58
+msgid "Header Settings"
+msgstr ""
+
+#. Name of the template
+#: inc/core/wellbeing-functions.php:178 inc/core/wellbeing-functions.php:181
+msgid "Home"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:67
+msgid "Homepage Settings"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://xclusivethemes.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "http://xclusivethemes.com/wordpress-themes/wellbeing/"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:374
+msgid "Info Text"
+msgstr ""
+
+#: 404.php:24
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/customizer/custom-controls/functions.php:69
+msgid "Join me on Reddit"
+msgstr ""
+
+#: inc/customizer/custom-controls/functions.php:70
+msgid "Join me on Slack"
+msgstr ""
+
+#: inc/customizer/custom-controls/functions.php:75
+msgid "Join me on Stack Overflow"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:82
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: functions.php:111 inc/customizer/custom-controls/inc/customizer.php:745
+#: inc/customizer/custom-controls/inc/customizer.php:790
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer/custom-controls/functions.php:59
+msgid "Like me on Facebook"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:69
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/core/wellbeing-functions.php:78
+msgid "Meet our doctors"
+msgstr ""
+
+#: header.php:70
+msgid "Menu"
+msgstr ""
+
+#: inc/core/wellbeing-functions.php:98
+msgid "Next"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:749
+#: inc/customizer/custom-controls/inc/customizer.php:794
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:718
+msgid "No, of Blog"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:611
+msgid "No. of Services"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:488
+#: inc/customizer/custom-controls/inc/customizer.php:612
+msgid "No. of slides to show"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:296
+msgid "Open in new browser tab"
+msgstr ""
+
+#: inc/core/wellbeing-functions.php:257
+msgid "Page"
+msgstr ""
+
+#: template-parts/content-page.php:23 template-parts/content.php:50
+msgid "Pages:"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:45
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:206
+msgid "Post/Page Settings"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:65
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/core/wellbeing-functions.php:245
+msgid "Posts tagged"
+msgstr ""
+
+#: inc/core/wellbeing-functions.php:92
+msgid "Previous"
+msgstr ""
+
+#: functions.php:49
+msgid "Primary"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:767
+msgid "Read More Text"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: functions.php:120 inc/customizer/custom-controls/inc/customizer.php:753
+#: inc/customizer/custom-controls/inc/customizer.php:798
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:233
+msgid "Sample Custom Controls"
+msgstr ""
+
+#: inc/core/wellbeing-functions.php:189
+msgid "Search results for"
+msgstr ""
+
+#: inc/core/wellbeing-functions.php:292
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:550
+#: inc/customizer/custom-controls/inc/customizer.php:580
+#: inc/customizer/custom-controls/inc/customizer.php:659
+#: inc/customizer/custom-controls/inc/customizer.php:689
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:162
+msgid "Service Section"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:835
+msgid "Show/Hide Menu"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:505
+msgid "Show/Hide Section"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:454
+msgid "Show/Hide Slider"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:129
+msgid "Slider Section"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:487
+msgid "Slides to show"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:96
+msgid "Social Icons"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:321
+msgid "Social URLs"
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/customizer/custom-controls/functions.php:80
+msgid "Subscribe to me on YouTube"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:629
+msgid "Subtitle"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:72
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:184
+msgid "Testimonial Section"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:234
+msgid "These are an example of Customizer Custom Controls."
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:241
+msgid "These are an example of the default Customizer Controls."
+msgstr ""
+
+#: inc/customizer.php:38
+msgid "This allows to edit general theme settings"
+msgstr ""
+
+#: functions.php:134
+msgid "This is a Footer Sidebar Area."
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:276
+msgid "Upload Image of size 1900x400"
+msgstr ""
+
+#: template-home.php:264
+msgid "View Details"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:359
+msgid "View list of available icons"
+msgstr ""
+
+#: inc/customizer/custom-controls/functions.php:56
+msgid "Watch me on DeviantArt"
+msgstr ""
+
+#: inc/customizer/custom-controls/inc/customizer.php:151
+msgid "Welcome Section"
+msgstr ""
+
+#. Name of the theme
+msgid "Wellbeing Hospital"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Wellbeing Hospital – Multipurpose Medical WordPress Theme is a powerful and "
+"eye-catching WordPress theme for Medical, Clinical, Hospitals, Health "
+"Clinics, Medical Practices, Doctors, Pediatrics, Psychiatry, Surgeons and "
+"other medical hospitals related on your website. Well Being theme has a "
+"beautiful &amp; unique design that will be best suited for your services "
+"(company). It has 100% responsive design and tested on all major browsers "
+"and devices. Well Being comes with 3 different pre-made homepages, has "
+"unlimited creativity in design and colors, flexible layouts and super "
+"powerful functionality – anything you might need to make a beautiful website."
+" There are tons of options available including slideshow, doctor list, "
+"doctor detail page, medical services, department, success story, about page, "
+"book appointment form and many more. Powerful theme option, unlimited google "
+"font, color setting, header options, layout options,  drag and drop option "
+"helps you to customize your website as per your needs.  For those who are "
+"looking for ecommerce option, Well Being is fully compatible with popular "
+"plugin WooCommerce. This theme has been optimized to load fast and rank "
+"better in search engines."
+msgstr ""
+
+#. Author of the theme
+msgid "Xclusive Themes"
+msgstr ""

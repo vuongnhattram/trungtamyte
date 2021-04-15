@@ -1,0 +1,40 @@
+/* CSS Document */
+
+
+/*Primary Color*/
+
+span.full-underline:before, span.full-underline:after, .btn-1, .sociallink li a:hover, .nav-holder, .header-2 .appointment-link .btn-3::before, .btn-4::before, .btn-4::after, .header-3 .appointment-link .btn-3::before, .header-3 .appointment-link .btn-3::after, .header-2 .appointment-link .btn-3::after, .left-info-block, .right-info-block, .fact-counter:before, .department-style-1 .department-intro:before, .miscellaneous, .member-info ul.social-list li i, span.full-underline:before, span.full-underline:after, .owl-theme .owl-controls .owl-page span, .header-2 .top-header, .sticky-menu-3, .highlight:before, .service-style-3 .service-list .service-content-text, .success-story .owl-theme .owl-controls i:hover, .tag a:hover, .social-share ul.sociallink li a:hover, h3.titletext:before, h4.titletext:before, .mix-filter .filter-controls li.active, .datepicker table tr td.today, .datepicker table tr td.today:hover, .datepicker table tr td.today.disabled, .datepicker table tr td.today.disabled:hover, .member-detail-aside .member-sociallink ul.sociallink li a:hover, .faq a[aria-expanded="true"], .gallery-overlay, .pt-header, .service-type ul li.active a, .service-type ul li a:hover, .service-fee ul li span, input[type="submit"], .footer-widget h4:after, .aside-widget h3.titletext:after, .widget_calendar td#today, .navbar-nav li .sub-menu, .block-1, .block-3 {
+	background: #00A4A3;
+}
+
+@media only screen and (max-width:991.98px) {
+.header-2 .navbar {
+	background: #00A4A3;
+}
+.navbar-collapse {
+	background: #008080;
+}
+}
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, .btn-4, .btn-5, .sociallink li a, .header-info i::before, .department-style-1 .department-list i, .department-style-1 .department-list h5, .service-style-1 .service-list .service-icon i, .service-style-1 .service-list:hover h4 a, .service .service-list:hover h4 a, .appointment-block .title p, .member-info p, ul.meta li i, .footer-widget h4 span, .footer-widget .sociallink a:hover, .top-footer .widget-link ul li i, .top-footer .opening-hour ul li span.right, .news-letter h4 span, .bottom-footer p a, .footer-nav ul li a:hover, .service-style-2 .service-list .service-icon i, .timetable-block .time-schedule ul li span.right, .announcement h2, .intro-3 .intro-buttom-list .intro-list-content span, .service-style-3 .owl-theme .owl-controls i, .service-style-3 .service-list .service-content .service-img-icon, .success-story .owl-theme .owl-controls i, .testimonial-style-3 .testimonial-list i, .testimonial-style-3 .testimonial-bottom h5 span, .about-content ul li:before, .about-content-item h4, [data-toggle="collapse"]::after, .aside-cata ul li a:hover, .contact-address ul li.address-list h5, .member-detail .title p, .event-list .event-list-content h4, .event-list .event-list-content h4 a, .hospital-address ul li a, .brief-testimonial p, .brief-testimonial p::before, .service-appointment h3, .page-numbers.current, .page-numbers:hover, ul.opening-hour li span.right, .copyright a, .widget_nav_menu ul li a:before, #recentcomments a, .aside-widget ul li a:hover, .tab-item [data-toggle="collapse"]:after, .tab-item a[aria-expanded="true"], blockquote p:before {
+	color: #00A4A3;
+}
+span.underline, form select:focus, .btn-1, .btn-1:hover, .btn-1:active, .btn-4, .btn-4::before, .btn-4::after, .sociallink li a, .header, .service-style-1 .service-list .service-icon, .footer-widget .sociallink a:hover, .timetable-block, .service-style-2 .service-list, .success-story .owl-theme .owl-controls i, .tag a:hover, .social-share ul.sociallink li a:hover, .mix-filter .filter-controls li.active, .datepicker table tr td.today, .datepicker table tr td.today:hover, .datepicker table tr td.today.disabled, .datepicker table tr td.today.disabled:hover, .faq a[aria-expanded="true"], .faq .tab-item-content, .price-table:hover .pt-content, .page-numbers.current, .page-numbers:hover, select:focus {
+	border-color: #00A4A3;
+}
+.testimonial .owl-theme .owl-controls i {
+	border-color: #7EF6F6;
+}
+.testimonial .owl-theme .owl-controls i:hover {
+	color: #7EF6F6;
+}
+/*Secondary Color*/
+
+.title p.t-underline:before, .btn-3, .btn-1::before, .btn-1::after, .btn-2::after, .appointment-link a, .department-style-1 .department-list:hover, .member-info ul.social-list li i:hover, .return-to-top, #search .close {
+	background: #ec215b;
+}
+.btn-5:hover, .btn-3:hover, .header-info span, .slide-text > h2, .intro-buttom p span, .service-style-1 .service-list:hover .service-icon i, .bottom-footer p a:hover, .intro-buttom p span, .service-style-1 .service-list:hover .service-icon i, .bottom-footer p a:hover, .announcement ul li, .service .service-list:hover .service-icon i, .service-style-2 .service-list:hover a.btn-5, .intro-3 .intro-buttom-list .intro-list-icon i, .event-list:hover h4 a {
+	color: #ec215b;
+}
+.header-2 .navbar-nav > li.active a, .header-2 .navbar-nav > li:hover > a, .header-2 .navbar-nav > li.current-menu-item a, .btn-3, .service-icon, .member-info {
+	border-color: #ec215b;
+}
